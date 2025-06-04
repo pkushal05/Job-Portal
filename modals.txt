@@ -1,0 +1,72 @@
+user:
+name
+email
+password
+profile
+
+profile:
+contact-info
+education
+work-exp
+skills
+
+contact-info:
+Fname
+Lname
+email
+Phone number
+address
+city
+postal code
+province
+country
+
+education:
+School name
+level of education
+from to
+desc
+
+work-experience:
+company-name
+position
+from to
+desc
+
+certifications:
+name
+number (optional)
+url
+from to
+
+Links:
+name
+url
+
+job:
+position
+work-mode
+employment-type
+job-desc
+company
+
+employer:
+name
+email
+password
+company
+
+company:
+name
+email
+address
+city
+postal code
+province
+country
+desc
+
+
+
+
+
